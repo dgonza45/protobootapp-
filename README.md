@@ -1,4 +1,4 @@
-# Proyecto CD/CI - Daniel Gonzalez Bernal
+# Proyecto CI/CD - Daniel Gonzalez Bernal
 
 ## URLs de Entorno
 
